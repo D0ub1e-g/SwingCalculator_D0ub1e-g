@@ -1,11 +1,11 @@
 # SwingCalculator_D0ub1e-g
 Swing Calculator
 
-Overview
+OVERVIEW
 
 Swing Calculator is a simple GUI-based calculator built using Java Swing. It allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The interface consists of a text field to display input and results, along with buttons for digits (0-9), operators (+, -, *, /), a clear (C) button, and an equals (=) button.
 
-Features
+FEATURES
 
 Supports four basic arithmetic operations: addition, subtraction, multiplication, and division.
 
@@ -16,7 +16,7 @@ A responsive GUI built using Java Swing with GridLayout for button arrangement.
 Displays results in real-time upon pressing the "=" button.
 
 
-Prerequisites
+PREREQUISITES
 
 Ensure you have the following installed:
 
@@ -25,7 +25,7 @@ Java Development Kit (JDK) 8 or higher
 An IDE or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
 
-How to Run
+How To Run
 
 1. Clone or download the source code.
 
@@ -44,7 +44,7 @@ java SwingCalculator
 
 
 
-Code Explanation
+CODE EXPLANATION
 
 The SwingCalculator class extends JFrame and implements ActionListener.
 
@@ -57,7 +57,7 @@ Operators and numbers are processed accordingly when clicked.
 The "=" button computes the result, while the "C" button resets the calculator.
 
 
-Future Enhancements
+FUTURE ENHANCEMENTS
 
 Implement keyboard input support.
 
@@ -66,11 +66,11 @@ Add a decimal point (.) button for floating-point calculations.
 Display an error message for division by zero instead of returning 0.
 
 
-License
+LICENSE
 
 This project is open-source and available for modification and distribution.
 
-Author
+AUTHOR
 
 GABRIEL YASHIM GREGORY 
 
